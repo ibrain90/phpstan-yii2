@@ -1,5 +1,5 @@
 {
-    "name": "proget-hq/phpstan-yii2",
+    "name": "ibrain90/phpstan-yii2",
     "type": "library",
     "description": "Yii2 extension for PHPStan",
     "license": "MIT",
